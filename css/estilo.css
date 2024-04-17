@@ -1,0 +1,8 @@
+.box1{
+    display: flex;
+}
+
+img{
+    width: 150px;
+    justify-content: space-between;
+}
